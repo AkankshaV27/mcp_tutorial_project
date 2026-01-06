@@ -1,10 +1,10 @@
 ## Run
 ```bash
 # Terminal 1: start the MCP server
-python bank_mcp.py
+python mcp_server.py
 
 # Terminal 2: run the client
-python bank_client.py
+python mcp_client.py
 ```
 
 **Try these:**
